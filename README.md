@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eksubin
+- 👋 Hi, I’m Subin Erattakulangara
 - 👀 I’m interested in DeepLearning based medical imaging
-- 🌱 I’m currently a PhD student
+- 🌱 I’m currently a PhD student at University of Iowa
 - 💞️ I’m looking to collaborate on image segmentation
 - 📫 How to reach me www.subinek.com
 
