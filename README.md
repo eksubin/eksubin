@@ -20,6 +20,6 @@ Currently, I'm in my last semester of PhD at University of Iowa, Working on my t
 [![Skills 3](https://skillicons.dev/icons?i=linux,bash,github,git)](https://skillicons.dev)
 
 ## Publications
-[Automatic Multiple Articulator Segmentation in Dynamic Speech MRI Using a Protocol Adaptive Stacked Transfer Learning U-NET Model](https://www.mdpi.com/2306-5354/10/5/623)
-[Accelerated Pseudo 3D Dynamic Speech MR Imaging at 3T Using Unsupervised Deep Variational Manifold Learning](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_66)
-[Network Analysis of MPO and Other Relevant Proteins Involved in Diabetic Foot Ulcer and Other Diabetic Complication](https://link.springer.com/article/10.1007/s12539-017-0258-z)
+- Automatic Multiple Articulator Segmentation in Dynamic Speech MRI Using a Protocol Adaptive Stacked Transfer Learning U-NET Model[link](https://www.mdpi.com/2306-5354/10/5/623)
+- Accelerated Pseudo 3D Dynamic Speech MR Imaging at 3T Using Unsupervised Deep Variational Manifold Learning[link](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_66)
+- Network Analysis of MPO and Other Relevant Proteins Involved in Diabetic Foot Ulcer and Other Diabetic Complication[link](https://link.springer.com/article/10.1007/s12539-017-0258-z)
